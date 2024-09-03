@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ordfireota.github.io/sitemap.html.gz
+Sitemap: https://ordfireota.github.io/app/sitemap.html.gz
+Sitemap: https://ordfireota.github.io/assets/sitemap.html.gz
+Sitemap: https://ordfireota.github.io/css/sitemap.html.gz
+Sitemap: https://ordfireota.github.io/includes/sitemap.html.gz
+Sitemap: https://ordfireota.github.io/item/sitemap.html.gz
+Sitemap: https://ordfireota.github.io/src/sitemap.html.gz
